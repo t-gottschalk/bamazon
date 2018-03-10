@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/t-gottschalk/bamazon/issues"
   },
-  "homepage": "https://github.com/t-gottschalk/bamazon#readme"
+  "homepage": "https://github.com/t-gottschalk/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.2.0",
+    "express": "^4.16.2",
+    "inquirer": "^5.1.0"
+  }
 }
