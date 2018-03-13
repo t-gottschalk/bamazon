@@ -25,16 +25,14 @@ Screenshot
 1 of 5
 Start the application by typing: "node bamazonCustomer.js" like below.
 
-![Image 01](images/pic1.jpeg)
-Format: ![Alt Text](url)
+![Pic1](https://github.com/t-gottschalk/bamazon/blob/master/images/pic1.jpeg)
 
 
 Screenshot
 2 of 5
 This will display the Product Table.
 
-![Image 01](/images/pic2.jpeg)
-Format: ![Alt Text](url)
+![Pic2](https://github.com/t-gottschalk/bamazon/blob/master/images/pic2.jpeg)
 
 
 
@@ -42,8 +40,7 @@ Screenshot
 3 of 5
 Choose the "ID" of the Product you would like to purchase.
 
-![Image 01](/images/pic3.jpeg)
-Format: ![Alt Text](url)
+![Pic3](https://github.com/t-gottschalk/bamazon/blob/master/images/pic3.jpeg)
 
 
 Screenshot
@@ -51,16 +48,14 @@ Screenshot
 Choose the "QTY" of the Product you would like to purchase.
 Your "Total Price" is calculated and you will be asked if you would like to purchase another item. Type "Yes" or "No"
 
-![Image 01](/images/pic4.jpeg)
-Format: ![Alt Text](url)
+![Pic4](https://github.com/t-gottschalk/bamazon/blob/master/images/pic4.jpeg)
 
 
 Screenshot
 5 of 5
 If "No" you will exit the application. If "Yes" you will revert back to step 3.
 
-![Image 01](/images/pic5.jpeg)
-Format: ![Alt Text](url)
+![Pic5](https://github.com/t-gottschalk/bamazon/blob/master/images/pic5.jpeg)
 
 
 Congratulations! You are now ready to shop at Bamazon!!!
