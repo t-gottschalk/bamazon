@@ -16,7 +16,7 @@ Getting Started:
 * Clone repo.
 * Run command in Terminal or Gitbash 'npm install'
 * Navigate to directory
-* Run node the file bamazonCustomer.js
+* Run Node using the JavaScript file bamazonCustomer.js
 * Follow the screenshots
 
 Application Flow:
